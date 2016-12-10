@@ -1,0 +1,11 @@
+Creates an edict called "Blessing of Omnissiah" that gives player all benefits shown on image. This blessing has zero-cost upkeep and will never be picked up by AI player.
+
+Mod was inspired on "Easy Mode", which sadly seems no longer to be updated.
+
+Stellaris version requirement: 1.4.*
+Tested under version: 1.40 (54ed) without Leviathans Story Pack
+Current mod version: 1.0.5
+Github page for posting issues/ideas/contributing: https://github.com/AleksanderGondek/stellaris-mod-filthy-casual-mode
+
+Note: I am currently quite occupied with my job, so expect that promised revamp of this mod will come later than sooner (ETA: after Christmas).
+What can be expected of said revamp: Removal of buffs no longer used by game mechanics, ability to customize a bit power of buffs, bit more better process of updating.
