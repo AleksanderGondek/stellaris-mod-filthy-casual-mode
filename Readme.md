@@ -1,6 +1,6 @@
 Stellaris - Mod - Filthy casual mode
 =======
-![Mod version](https://img.shields.io/badge/version-1.0.6-brightgreen.svg)
+![Mod version](https://img.shields.io/badge/version-1.2.1-brightgreen.svg)
 ![Stellaris version](https://img.shields.io/badge/stellaris--version-1.4.*-blue.svg)
 
 [This mod](http://steamcommunity.com/sharedfiles/filedetails/?id=741819051) goal is to make game significantly easier by adding edicts (usable only by human player) which grant various benefits to the empire at no maintenance costs.

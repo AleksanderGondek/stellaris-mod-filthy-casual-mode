@@ -13,5 +13,5 @@ Mod was inspired on "Easy Mode", which sadly seems no longer to be updated.
 
 Stellaris version requirement: 1.4.*
 Tested under version: 1.4.1 (1759) with Leviathans Story Pack
-Current mod version: 1.0.6
+Current mod version: 1.2.1
 Github page for posting issues/ideas/contributing: https://github.com/AleksanderGondek/stellaris-mod-filthy-casual-mode
