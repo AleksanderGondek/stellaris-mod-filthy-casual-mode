@@ -11,9 +11,14 @@ Submitting new ideas
 =======
 Feel free to use issues as a way of requesting features or describing bugs.
 
+Visual overview
+=======
+
+![Screenshot](/assets/screen-shot.png)
+
 License
 =======
-Copyright 2016 Aleksander Gondek
+Copyright 2016,2017 Aleksander Gondek
 
 Licensed under the [Apache License, Version 2.0 (the "License")](https://github.com/AleksanderGondek/stellaris-mod-filthy-casual-mode/blob/master/LICENSE);
 you may not use this file except in compliance with the License.
