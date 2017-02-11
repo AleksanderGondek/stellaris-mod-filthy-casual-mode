@@ -1,3 +1,9 @@
 ﻿l_german:
  edict_blessing_of_omnissiah:0 "Blessing of Omnissiah"
  edict_blessing_of_omnissiah_desc:0 "This Edict gives bonuses for casual filiths.\n\n"
+ edict_blessing_of_midas:0 "Blessing of Midas"
+ edict_blessing_of_midas_desc:0 "This Edict boosts up your economy enourmously"
+ edict_blessing_of_gandhi:0 "Blessing of Gandhi"
+ edict_blessing_of_gandhi_desc:0 "This Edict ensures that the population will remain docile"
+ edict_blessing_of_tesla:0 "Blessing of Tesla"
+ edict_blessing_of_tesla_desc:0 "This Edict bestows incredible reasearch rate to your country"

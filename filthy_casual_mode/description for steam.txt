@@ -1,11 +1,17 @@
-Creates an edict called "Blessing of Omnissiah" that gives player all benefits shown on image. This blessing has zero-cost upkeep and will never be picked up by AI player.
+Adds four different edicts, which grants player various benefits. All of those edicts have zero-cost upkeep and will never be picked up by AI players.
+
+The most significant edict is called "Blessing of Omnissiah" which grants huge boots to every aspect of the game (see screenshot).
+
+For players that wish more targeted (or temporary) increases, 3 other edicts are included:
+[list]
+    [*]Blessing of Gandhi - improves population happiness, both in war and at peace.
+    [*]Blessing of Midas - boosts resources output rate from tiles.
+    [*]Blessing of Tesla - greatly speeds up research.
+[/list]
 
 Mod was inspired on "Easy Mode", which sadly seems no longer to be updated.
 
 Stellaris version requirement: 1.4.*
 Tested under version: 1.4.1 (1759) with Leviathans Story Pack
-Current mod version: 1.0.5
+Current mod version: 1.0.6
 Github page for posting issues/ideas/contributing: https://github.com/AleksanderGondek/stellaris-mod-filthy-casual-mode
-
-Note: I am currently quite occupied with my job, so expect that promised revamp of this mod will come later than sooner (ETA: after Christmas).
-What can be expected of said revamp: Removal of buffs no longer used by game mechanics, ability to customize a bit power of buffs, bit more better process of updating.
