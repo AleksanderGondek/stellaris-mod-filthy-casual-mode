@@ -36,7 +36,7 @@ country_edict = {
 		building_time_mult = -0.1
 		country_sector_cap_add = 3
 		influence_gain_add = 10
-		leader_age = 120
+		leader_age = 127
 	}
 
 	influence_cost = 0
