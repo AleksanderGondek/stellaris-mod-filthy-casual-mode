@@ -30,12 +30,13 @@ country_edict = {
 		tile_resource_energy_mult = 0.35
 		tile_resource_minerals_mult = 0.35
 		tile_resource_food_mult = 0.35
+        country_resource_influence_mult = 0.65
+        country_resource_unity_mult = 0.45
 		planet_sensor_range_mult = 0.2
 		planet_building_cost_mult = -0.1
 		planet_border_mult = 0.25
 		building_time_mult = -0.1
 		country_sector_cap_add = 3
-		influence_gain_add = 10
 		leader_age = 127
 	}
 
