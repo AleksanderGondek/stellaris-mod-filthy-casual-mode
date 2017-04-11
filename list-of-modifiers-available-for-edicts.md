@@ -38,6 +38,7 @@ List of modifiers available in edicts, as of current version of game (retrieved 
 * building_time_mult
 * slave_production_output
 * slave_food_output
-* influence_gain_add
+* country_resource_unity_mult
+* country_resource_influence_mult
 * country_sector_cap_add
 * leader_age
