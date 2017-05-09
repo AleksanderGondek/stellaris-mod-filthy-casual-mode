@@ -6,4 +6,4 @@ tags={
 }
 picture="unlock.png"
 remote_file_id="741819051"
-supported_version="1.5.*"
+supported_version="1.6.*"

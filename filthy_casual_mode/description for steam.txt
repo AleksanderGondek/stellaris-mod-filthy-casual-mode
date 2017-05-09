@@ -11,9 +11,11 @@ For players that wish more targeted (or temporary) increases, 3 other edicts are
 
 Mod was inspired on "Easy Mode", which sadly seems no longer to be updated.
 
-Stellaris version requirement: 1.5.*
-Tested under version: 1.5.0 (d050) with Utopia and Leviathans Story Pack
-Current mod version: 1.2.3
+Stellaris version requirement: 1.6.*
+Tested under version: 1.6.0 (7a87) with Utopia and Leviathans Story Pack
+Current mod version: 1.2.4
 Github page for posting issues/ideas/contributing: https://github.com/AleksanderGondek/stellaris-mod-filthy-casual-mode
 
 [b]How to enable[/b]: Press [i]F8[/i] to open Edicts screen and there please select any edict that matches your needs.
+
+[b] Tags [/b]: Cheat, Easy, Mode, Trainer, Edict
