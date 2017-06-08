@@ -42,3 +42,10 @@ List of modifiers available in edicts, as of current version of game (retrieved 
 * country_resource_influence_mult
 * country_sector_cap_add
 * leader_age
+* ship_ftl_jumpdrive_range_mult
+* ship_ftl_warp_range_mult
+* ship_ftl_wormhole_range_mult
+* ship_ftl_wormhole_speed_mult
+* ship_interstellar_speed_mult
+* ship_winddown_mult
+* ship_windup_mult
