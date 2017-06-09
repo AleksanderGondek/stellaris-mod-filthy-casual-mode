@@ -18,6 +18,7 @@ Visual overview
 ![Screenshot](/assets/screenshot-gandhi.png)
 ![Screenshot](/assets/screenshot-midas.png)
 ![Screenshot](/assets/screenshot-tesla.png)
+![Screenshot](/assets/screenshot-hermes.png)
 
 License
 =======
