@@ -22,7 +22,7 @@ Visual overview
 
 License
 =======
-Copyright 2016,2017 Aleksander Gondek
+Copyright 2016, 2017 Aleksander Gondek
 
 Licensed under the [Apache License, Version 2.0 (the "License")](https://github.com/AleksanderGondek/stellaris-mod-filthy-casual-mode/blob/master/LICENSE);
 you may not use this file except in compliance with the License.
