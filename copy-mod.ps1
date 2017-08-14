@@ -1,7 +1,7 @@
 ﻿#
 # This simple, ugly scripts purpose is to backup latest version of mod placed in Stellaris mods directory,
 # remove it and than overwrite with new version.
-# This simplifies iterative testing when mod code repository is not pleaced directly in Stellaris mod directory.
+# This simplifies iterative testing when mod code repository is not placed directly in Stellaris mod directory.
 #
 
 $CurrentUserDocumentsDirectory = [Environment]::GetFolderPath("MyDocuments")
