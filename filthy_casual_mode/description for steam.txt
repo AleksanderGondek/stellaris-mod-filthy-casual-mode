@@ -13,7 +13,7 @@ For players that wish more targeted (or temporary) increases, 3 other edicts are
 Mod was inspired on "Easy Mode", which sadly seems no longer to be updated.
 
 Stellaris version requirement: 1.6.*
-Tested under version: 1.6.1 (b38e) with all dlcs.
+Tested under version: 1.6.2 (d7ec) with all dlcs.
 Current mod version: 1.3.0
 Github page for posting issues/ideas/contributing: https://github.com/AleksanderGondek/stellaris-mod-filthy-casual-mode
 
