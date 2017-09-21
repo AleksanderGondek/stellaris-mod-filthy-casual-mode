@@ -12,9 +12,9 @@ For players that wish more targeted (or temporary) increases, 3 other edicts are
 
 Mod was inspired on "Easy Mode", which sadly seems no longer to be updated.
 
-Stellaris version requirement: 1.6.*
-Tested under version: 1.6.2 (d7ec) with all dlcs.
-Current mod version: 1.3.0
+Stellaris version requirement: 1.6.8
+Tested under version: 1.8.0 (d7ec) with all dlcs.
+Current mod version: 1.3.1
 Github page for posting issues/ideas/contributing: https://github.com/AleksanderGondek/stellaris-mod-filthy-casual-mode
 
 [b]How to enable[/b]: Press [i]F8[/i] to open Edicts screen and there please select any edict that matches your needs.
