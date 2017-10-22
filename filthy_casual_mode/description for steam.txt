@@ -7,13 +7,13 @@ For players that wish more targeted (or temporary) increases, 4 other edicts are
     [*]Blessing of Gandhi - improves population happiness, both in war and at peace.
     [*]Blessing of Midas - boosts resources output rate from tiles.
     [*]Blessing of Tesla - greatly speeds up research.
-    [*]Blessing of Hermes - vastly increases ships interstellar speed (idea came from: [i]Dreagith[/i]http://steamcommunity.com/profiles/76561197970836826)
+    [*]Blessing of Hermes - vastly increases ships interstellar speed (idea came from: [i]Dreagith[/i] http://steamcommunity.com/profiles/76561197970836826)
 [/list]
 
 Mod was inspired on "Easy Mode", which sadly seems no longer to be updated.
 
 Stellaris version requirement: 1.8.*
-Tested under version: 1.8.0 (3943) with all dlcs.
+Tested under version: 1.8.2 (135b) with all dlcs.
 Current mod version: 1.3.1
 Github page for posting issues/ideas/contributing: https://github.com/AleksanderGondek/stellaris-mod-filthy-casual-mode
 
