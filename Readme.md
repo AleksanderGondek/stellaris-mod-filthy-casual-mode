@@ -5,7 +5,7 @@ Stellaris - Mod - Filthy casual mode
 
 [This mod](http://steamcommunity.com/sharedfiles/filedetails/?id=741819051) goal is to make game significantly easier by adding edicts (usable only by human player) which grant various benefits to the empire at no maintenance costs.
 
-All credit for the idea goes to “Easy Mode” mod, which sadly seems to be abandoned.
+All credit for the idea goes to “[Easy Mode](https://steamcommunity.com/sharedfiles/filedetails/?id=682268089)” mod, which sadly seems to be abandoned.
 
 Submitting new ideas
 =======
