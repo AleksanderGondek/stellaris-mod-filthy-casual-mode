@@ -2,21 +2,22 @@ Adds five different edicts, which grants player various benefits. All those edic
 
 The most significant edict is called "Blessing of Omnissiah" which grants huge boots to every aspect of the game (see screenshot).
 
-For players that wish more targeted (or temporary) increases, 4 other edicts are included:
+For players that wish more targeted (or temporary) increases, 5 other edicts are included:
 [list]
     [*]Blessing of Gandhi - improves population happiness, both in war and at peace.
     [*]Blessing of Midas - boosts resources output rate from tiles.
     [*]Blessing of Tesla - greatly speeds up research.
     [*]Blessing of Hermes - vastly increases ships interstellar speed (idea came from: [i]Dreagith[/i] http://steamcommunity.com/profiles/76561197970836826)
+    [*]God Mode - Goes beyond anything resonable, giving 999x boost to income and research speed (idea came from: [i]Jornos[/i] http://steamcommunity.com/id/Jornos)
 [/list]
 
 Mod was inspired on "Easy Mode", which sadly seems no longer to be updated.
 
 Stellaris version requirement: 1.9.*
 Tested under version: 1.9.1 (83d2) with all dlcs.
-Current mod version: 1.3.3
+Current mod version: 1.4.0
 Github page for posting issues/ideas/contributing: https://github.com/AleksanderGondek/stellaris-mod-filthy-casual-mode
 
-[b]How to enable[/b]: Press [i]F8[/i] to open Edicts screen and there please select any edict that matches your needs.
+[b]How to enable[/b]: Press [i]F6[/i] to open Edicts screen and there please select any edict that matches your needs.
 
 [b] Tags [/b]: Cheat, Easy, Mode, Trainer, Edict

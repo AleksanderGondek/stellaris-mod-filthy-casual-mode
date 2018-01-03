@@ -9,3 +9,5 @@
  edict_blessing_of_tesla_desc:0 "This Edict bestows incredible reasearch rate to your country"
  edict_blessing_of_hermes:0 "Blessing of Hermes"
  edict_blessing_of_hermes_desc:0 "This Edict bestows incredible interstellar speed to your ships"
+ edict_god_mode:0 "God Mode"
+ edict_god_mode_desc:0 "Your income is boosted beyond anything that is reasonable"

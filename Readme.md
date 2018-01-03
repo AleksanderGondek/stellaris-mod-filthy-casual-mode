@@ -1,6 +1,6 @@
 Stellaris - Mod - Filthy casual mode
 =======
-![Mod version](https://img.shields.io/badge/version-1.3.3-brightgreen.svg)
+![Mod version](https://img.shields.io/badge/version-1.4.0-brightgreen.svg)
 ![Stellaris version](https://img.shields.io/badge/stellaris--version-1.9.1-blue.svg)
 
 [This mod](http://steamcommunity.com/sharedfiles/filedetails/?id=741819051) goal is to make game significantly easier by adding edicts (usable only by human player) which grant various benefits to the empire at no maintenance costs.
@@ -22,7 +22,7 @@ Visual overview
 
 License
 =======
-Copyright 2016-2017 Aleksander Gondek
+Copyright 2016-2018 Aleksander Gondek
 
 Licensed under the [Apache License, Version 2.0 (the "License")](https://github.com/AleksanderGondek/stellaris-mod-filthy-casual-mode/blob/master/LICENSE);
 you may not use this file except in compliance with the License.
