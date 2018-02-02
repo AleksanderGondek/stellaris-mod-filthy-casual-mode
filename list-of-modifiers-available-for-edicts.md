@@ -34,6 +34,7 @@ List of modifiers available in edicts, as of current version of game (retrieved 
 * tile_resource_food_mult
 * planet_sensor_range_mult
 * planet_building_cost_mult
+* planet_building_build_speed_mult
 * planet_border_mult
 * building_time_mult
 * slave_production_output

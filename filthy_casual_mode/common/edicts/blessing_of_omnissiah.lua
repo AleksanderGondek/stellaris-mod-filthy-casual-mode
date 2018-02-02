@@ -34,6 +34,7 @@ country_edict = {
 		country_resource_unity_mult = 0.45
 		planet_sensor_range_mult = 0.2
 		planet_building_cost_mult = -0.1
+		planet_building_build_speed_mult = 0.2
 		planet_border_mult = 0.25
 		building_time_mult = -0.1
 		leader_age = 127
