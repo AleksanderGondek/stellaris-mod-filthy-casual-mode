@@ -8,6 +8,7 @@ For players that wish more targeted (or temporary) increases, 5 other edicts are
     [*]Blessing of Midas - boosts resources output rate from tiles.
     [*]Blessing of Tesla - greatly speeds up research.
     [*]Blessing of Hermes - vastly increases ships interstellar speed (idea came from: [i]Dreagith[/i] http://steamcommunity.com/profiles/76561197970836826)
+    [*]Blessing of Hephaestus - boosts building and construction speed (idea came from [i]<3M | shinn[/i] http://steamcommunity.com/id/shinn)
     [*]God Mode - Goes beyond anything resonable, giving 999x boost to income and research speed (idea came from: [i]Jornos[/i] http://steamcommunity.com/id/Jornos)
 [/list]
 
