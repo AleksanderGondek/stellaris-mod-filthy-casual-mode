@@ -33,6 +33,7 @@ List of modifiers available in edicts, as of current version of game (retrieved 
 * tile_resource_minerals_mult
 * tile_resource_food_mult
 * planet_sensor_range_mult
+* planet_army_build_speed_mult = 0.33
 * planet_building_cost_mult
 * planet_building_build_speed_mult
 * planet_border_mult
@@ -50,3 +51,4 @@ List of modifiers available in edicts, as of current version of game (retrieved 
 * ship_interstellar_speed_mult
 * ship_winddown_mult
 * ship_windup_mult
+* spaceport_ship_build_speed_mult

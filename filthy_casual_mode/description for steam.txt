@@ -16,7 +16,7 @@ Mod was inspired on "Easy Mode", which sadly seems no longer to be updated.
 
 Stellaris version requirement: 1.9.*
 Tested under version: 1.9.1 (83d2) with all dlcs.
-Current mod version: 1.5.0
+Current mod version: 1.5.1
 Github page for posting issues/ideas/contributing: https://github.com/AleksanderGondek/stellaris-mod-filthy-casual-mode
 
 [b]How to enable[/b]: Press [i]F6[/i] to open Edicts screen and there please select any edict that matches your needs.

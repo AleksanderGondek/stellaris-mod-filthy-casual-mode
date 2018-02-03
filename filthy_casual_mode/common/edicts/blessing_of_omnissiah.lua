@@ -27,6 +27,7 @@ country_edict = {
 		science_ship_survey_speed = 0.05
 		ship_anomaly_generation_chance_mult = 0.05
 		ship_reparation_speed_mult = 0.1
+		spaceport_ship_build_speed_mult = 0.33
 		tile_resource_energy_mult = 0.35
 		tile_resource_minerals_mult = 0.35
 		tile_resource_food_mult = 0.35
