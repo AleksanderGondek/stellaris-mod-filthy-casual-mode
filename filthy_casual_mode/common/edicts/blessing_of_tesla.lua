@@ -1,5 +1,12 @@
 country_edict = {
 	name = "blessing_of_tesla"
+
+	# 2^20 seems to be max number
+	length = 1048576
+	cost = {
+		influence = 0
+	}
+
 	modifier = {
 		all_technology_research_speed = 0.45
 		category_biology_research_speed_mult = 0.45
@@ -11,15 +18,13 @@ country_edict = {
 		country_society_tech_research_speed = 0.45
 	}
 
-	influence_cost = 0
+	potential = {
+	}
 
-	allow = {
+	prerequisites = {
 	}
 
 	ai_weight = {
 		weight = 0
-	}
-
-	prerequisites = {
 	}
 }

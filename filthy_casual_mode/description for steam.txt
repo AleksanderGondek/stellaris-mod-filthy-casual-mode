@@ -2,7 +2,7 @@ Adds five different edicts, which grants player various benefits. All those edic
 
 The most significant edict is called "Blessing of Omnissiah" which grants huge boots to every aspect of the game (see screenshot).
 
-For players that wish more targeted (or temporary) increases, 5 other edicts are included:
+For players that wish more targeted (or temporary) increases, 6 other edicts are included:
 [list]
     [*]Blessing of Gandhi - improves population happiness, both in war and at peace.
     [*]Blessing of Midas - boosts resources output rate from tiles.
@@ -14,9 +14,9 @@ For players that wish more targeted (or temporary) increases, 5 other edicts are
 
 Mod was inspired on "Easy Mode", which sadly seems no longer to be updated.
 
-Stellaris version requirement: 1.9.*
-Tested under version: 1.9.1 (83d2) with all dlcs.
-Current mod version: 1.5.1
+Stellaris version requirement: 2.0.*
+Tested under version: 2.0.0 (daf0) with all dlcs (except for Apocalypse).
+Current mod version: 2.0.0
 Github page for posting issues/ideas/contributing: https://github.com/AleksanderGondek/stellaris-mod-filthy-casual-mode
 
 [b]How to enable[/b]: Press [i]F6[/i] to open Edicts screen and there please select any edict that matches your needs.

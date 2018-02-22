@@ -1,21 +1,26 @@
 country_edict = {
 	name = "blessing_of_gandhi"
-	modifier = {
-		pop_happiness = 0.5
-		pop_robot_production_output = 0.25
-		pop_war_happiness = 0.5
-		pop_other_species_happiness = 0.75
+
+	# 2^20 seems to be max number
+	length = 1048576
+	cost = {
+		influence = 0
 	}
 
-	influence_cost = 0
+	modifier = {
+		pop_happiness = 0.5
+		pop_other_species_happiness = 0.75
+		pop_government_ethic_attraction = 0.75
+		country_trust_growth = 0.75
+	}
 
-	allow = {
+	potential = {
+	}
+
+	prerequisites = {
 	}
 
 	ai_weight = {
 		weight = 0
-	}
-
-	prerequisites = {
 	}
 }
