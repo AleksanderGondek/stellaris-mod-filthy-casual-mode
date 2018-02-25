@@ -1,4 +1,4 @@
-Adds five different edicts, which grants player various benefits. All those edicts have zero-cost upkeep and will never be picked up by AI players.
+Adds seven different edicts, which grants player various benefits. All those edicts have zero-cost upkeep and will never be picked up by AI players.
 
 The most significant edict is called "Blessing of Omnissiah" which grants huge boots to every aspect of the game (see screenshot).
 
