@@ -14,7 +14,7 @@ country_edict = {
 		country_resource_minerals_mult = 999.0
 		country_resource_food_mult = 999.0
 		country_resource_unity_mult = 999.0
-		pop_happiness = 999.0
+		pop_happiness = 3.0
 	}
 
 	potential = {
