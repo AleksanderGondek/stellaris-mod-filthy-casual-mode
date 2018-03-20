@@ -1,3 +1,5 @@
+** Cheat Cheat Cheat Cheat Cheat **
+
 Adds seven different polices, which grants player various benefits, as well as the ability to control the strength of the advantage gained. All polices have zero-cost upkeep and will never be picked up by AI players.
 Additionally, the mod allows for each policy to be changed at-will, which should yield a much better experience while testing-out different approaches. 
 
@@ -11,6 +13,8 @@ List of introduces policies:
     [*]Blessing of Midas - Increases any resource gains
     [*]Blessing of Omnissiah - Increases research speed
 [/list]
+
+** Cheat Cheat Cheat Cheat Cheat **
 
 Mod was inspired on "Easy Mode", which sadly seems no longer to be updated.
 
