@@ -1,0 +1,4 @@
+NGameplay = {
+    POLICY_YEARS = 0
+    SPECIES_POLICY_YEARS = 0
+}

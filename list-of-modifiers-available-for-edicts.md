@@ -6,16 +6,16 @@ List of modifiers available in edicts/policies, as of current version of game (r
 * Buidling Speed
     * building_time_mult
     * megastructure_build_speed_mult 
-    * planet_army_build_time_mult (?)
+    * planet_army_build_time_mult
     * planet_army_build_speed_mult
     * planet_building_cost_mult
     * planet_clear_blocker_time_mult
     * pop_robot_build_speed_mult
     * shipsize_colonizer_build_speed_mult
-    * starbase_building_build_time_mult (?)
-    * starbase_module_build_time_mult (?)
-    * starbase_shipyard_build_speed_mult (?)
-    * starbase_upgrade_time_mult (?)
+    * starbase_building_build_time_mult
+    * starbase_module_build_time_mult
+    * starbase_shipyard_build_speed_mult
+    * starbase_upgrade_time_mult
 * Diplomacy
     * country_insult_efficiency
     * country_trade_attractiveness

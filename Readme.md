@@ -1,9 +1,9 @@
 Stellaris - Mod - Filthy casual mode
 =======
-![Mod version](https://img.shields.io/badge/version-2.0.1-brightgreen.svg)
+![Mod version](https://img.shields.io/badge/version-3.0.0-brightgreen.svg)
 ![Stellaris version](https://img.shields.io/badge/stellaris--version-2.0.*-blue.svg)
 
-[This mod](http://steamcommunity.com/sharedfiles/filedetails/?id=741819051) goal is to make game significantly easier by adding edicts (usable only by human player) which grant various benefits to the empire at no maintenance costs.
+[This mod](http://steamcommunity.com/sharedfiles/filedetails/?id=741819051) goal is to make game significantly easier by adding couple of polices (usable only by human player) which grant various benefits to the empire (such as increasing resources production and reducing army upkeep).
 
 All credit for the idea goes to "[Easy Mode](https://steamcommunity.com/sharedfiles/filedetails/?id=682268089)" mod, which sadly seems to be abandoned.
 
@@ -15,13 +15,13 @@ I will do my best to implement any new idea suggested.
 Visual overview
 =======
 
-![Screenshot](/assets/screenshot-omnissiah.png)
-![Screenshot](/assets/screenshot-gandhi.png)
-![Screenshot](/assets/screenshot-midas.png)
-![Screenshot](/assets/screenshot-tesla.png)
-![Screenshot](/assets/screenshot-hermes.png)
+![Screenshot](/assets/screenshot-ares.png)
+![Screenshot](/assets/screenshot-dionysus.png)
+![Screenshot](/assets/screenshot-eunomia.png)
 ![Screenshot](/assets/screenshot-hephaestus.png)
-![Screenshot](/assets/screenshot-god-mode.png)
+![Screenshot](/assets/screenshot-hermes.png)
+![Screenshot](/assets/screenshot-midas.png)
+![Screenshot](/assets/screenshot-omnissiah.png)
 
 License
 =======
