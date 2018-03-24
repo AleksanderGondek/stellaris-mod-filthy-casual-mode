@@ -41,6 +41,8 @@
  policy_fcm_blessing_of_hephaestus_tier_iii_desc:0 "+75% boost"
  policy_fcm_blessing_of_hephaestus_tier_iv:0 "Enabled - Tier IV (+100%)"
  policy_fcm_blessing_of_hephaestus_tier_iv_desc:0 "+100% boost"
+ policy_fcm_blessing_of_hephaestus_tier_v:0 "Enabled - Tier IV (+990%)"
+ policy_fcm_blessing_of_hephaestus_tier_v_desc:0 "+990% boost"
  policy_fcm_blessing_of_hermes:0 "(FCM) Blessing of Hermes"
  policy_fcm_blessing_of_hermes_desc:0 "Gives boost to ships speed"
  policy_fcm_blessing_of_hermes_tier_i:0 "Enabled - Tier I (+25%)"

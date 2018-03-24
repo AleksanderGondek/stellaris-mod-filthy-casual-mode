@@ -132,4 +132,31 @@ fcm_blessing_of_hephaestus = {
 			weight = 0
 		}
 	}
+
+	option = {
+		name = "policy_fcm_blessing_of_hephaestus_tier_v"
+
+		policy_flags = {
+		}
+
+		prerequisites = {
+		}
+
+		modifier = {
+			building_time_mult = -99
+			megastructure_build_speed_mult = 99
+			planet_building_cost_mult = -99
+			planet_clear_blocker_time_mult = -99
+			pop_robot_build_speed_mult = 99
+			shipsize_colonizer_build_speed_mult = 99
+			starbase_building_build_time_mult = -99
+			starbase_module_build_time_mult = -99
+			starbase_shipyard_build_speed_mult = 99
+			starbase_upgrade_time_mult = -99
+		}
+
+		AI_weight = {
+			weight = 0
+		}
+	}
 }
