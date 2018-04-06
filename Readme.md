@@ -10,7 +10,7 @@ All credit for the idea goes to "[Easy Mode](https://steamcommunity.com/sharedfi
 Submitting new ideas
 =======
 Feel free to use github-issues as a way of requesting features or describing bugs. Feedback is mostly welcomed!
-I will do my best to implement any new idea suggested.
+I will try to do my best and to implement any new idea suggested.
 
 Visual overview
 =======
