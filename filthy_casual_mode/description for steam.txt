@@ -25,4 +25,4 @@ Github page for posting issues/ideas/contributing: https://github.com/Aleksander
 
 [b]How to enable[/b]: Press [i]F6[/i] to open Policies screen and there please select anything that matches your needs.
 
-[b] Tags [/b]: Cheat, Easy, Mode, Trainer, Policies
+[b] Tags [/b]: Cheat, Easy, Mode, Trainer, Policies, Hax
