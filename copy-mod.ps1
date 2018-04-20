@@ -9,7 +9,7 @@ $CurrentUserDocumentsDirectory = [Environment]::GetFolderPath("MyDocuments")
 $StellarisGameModsDirectory = [io.path]::combine($CurrentUserDocumentsDirectory,"Paradox Interactive\Stellaris\mod")
 $ModRepositoryDirectory = [io.path]::combine($CurrentUserDocumentsDirectory,"stellaris-mod-filthy-casual-mode")
 
-$BackupDirectoryName = "filthy_casual_mode_backup_" + $(get-date -f MM-dd-yyyy_HH_mm_ss)
+$BackupDirectoryName = "fcm_backup_" + $(get-date -f MM-dd-yyyy_HH_mm_ss)
 $BackupFullPath = [io.path]::combine($StellarisGameModsDirectory, $BackupDirectoryName)
 
 $ModContentsDirectoryName = "filthy_casual_mode"
