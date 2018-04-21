@@ -89,7 +89,7 @@ fcm_blessing_of_omnissiah = {
 		}
 
 		modifier = {
-			all_technology_research_speed = 1
+			all_technology_research_speed = 1.25
 		}
 
 		AI_weight = {
