@@ -1,5 +1,5 @@
 Stellaris - Mod - Filthy casual mode
-=======
+===
 ![Mod version](https://img.shields.io/badge/version-3.0.1-brightgreen.svg)
 ![Stellaris version](https://img.shields.io/badge/stellaris--version-2.1.*-blue.svg)
 
@@ -8,12 +8,12 @@ Stellaris - Mod - Filthy casual mode
 All credit for the idea goes to "[Easy Mode](https://steamcommunity.com/sharedfiles/filedetails/?id=682268089)" mod, which sadly seems to be abandoned.
 
 Submitting new ideas
-=======
+===
 Feel free to use github-issues as a way of requesting features or describing bugs. Feedback is mostly welcomed!
 I will try to do my best and to implement any new idea suggested.
 
 Visual overview
-=======
+===
 
 ![Screenshot](/assets/screenshot-ares.png)
 ![Screenshot](/assets/screenshot-dionysus.png)
@@ -24,7 +24,7 @@ Visual overview
 ![Screenshot](/assets/screenshot-omnissiah.png)
 
 License
-=======
+===
 Copyright 2016-2018 Aleksander Gondek
 
 Licensed under the Apache License, Version 2.0 (the "License");
