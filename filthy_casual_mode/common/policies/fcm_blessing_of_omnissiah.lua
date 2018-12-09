@@ -35,7 +35,9 @@ fcm_blessing_of_omnissiah = {
 		}
 
 		modifier = {
-			all_technology_research_speed = 0.25
+			country_base_engineering_research_produces_add = 1000
+			country_base_physics_research_produces_add = 1000
+			country_base_society_research_produces_add = 1000
 		}
 
 		AI_weight = {
@@ -53,7 +55,9 @@ fcm_blessing_of_omnissiah = {
 		}
 
 		modifier = {
-			all_technology_research_speed = 0.5
+			country_base_engineering_research_produces_add = 5000
+			country_base_physics_research_produces_add = 5000
+			country_base_society_research_produces_add = 5000
 		}
 
 		AI_weight = {
@@ -71,7 +75,9 @@ fcm_blessing_of_omnissiah = {
 		}
 
 		modifier = {
-			all_technology_research_speed = 0.75
+			country_base_engineering_research_produces_add = 10000
+			country_base_physics_research_produces_add = 10000
+			country_base_society_research_produces_add = 10000
 		}
 
 		AI_weight = {
@@ -89,7 +95,9 @@ fcm_blessing_of_omnissiah = {
 		}
 
 		modifier = {
-			all_technology_research_speed = 1.25
+			country_base_engineering_research_produces_add = 30000
+			country_base_physics_research_produces_add = 30000
+			country_base_society_research_produces_add = 30000
 		}
 
 		AI_weight = {

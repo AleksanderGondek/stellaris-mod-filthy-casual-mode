@@ -18,9 +18,9 @@ List of introduces policies:
 
 Mod was inspired on "Easy Mode", which sadly seems no longer to be updated.
 
-Stellaris version requirement: 2.1.*
-Tested under version: 2.1.0 (01a9) with all dlcs.
-Current mod version: 3.0.1
+Stellaris version requirement: 2.2.*
+Tested under version: 2.2.1 (bbf4).
+Current mod version: 3.0.2
 Github page for posting issues/ideas/contributing: https://github.com/AleksanderGondek/stellaris-mod-filthy-casual-mode
 
 [b]How to enable[/b]: Press [i]F6[/i] to open Policies screen and there please select anything that matches your needs.

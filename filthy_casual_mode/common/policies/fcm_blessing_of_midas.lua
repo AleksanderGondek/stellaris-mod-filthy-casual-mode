@@ -35,14 +35,13 @@ fcm_blessing_of_midas = {
 		}
 
 		modifier = {
-			country_resource_influence_mult = 0.25
-			country_resource_energy_mult = 0.25
-			country_resource_minerals_mult = 0.25
-			country_resource_food_mult = 0.25
-			country_resource_unity_mult = 0.25
-			tile_resource_minerals_mult = 0.25
-			tile_resource_food_mult = 0.25
-			tile_resource_energy_mult = 0.25
+			country_base_alloys_produces_add = 1000
+			country_base_consumer_goods_produces_add = 1000
+			country_base_energy_produces_add = 1000
+			country_base_food_produces_add = 1000
+			country_base_influence_produces_add = 1000
+			country_base_minerals_produces_add = 1000
+			country_base_unity_produces_add = 1000
 		}
 
 		AI_weight = {
@@ -60,14 +59,13 @@ fcm_blessing_of_midas = {
 		}
 
 		modifier = {
-			country_resource_influence_mult = 0.5
-			country_resource_energy_mult = 0.5
-			country_resource_minerals_mult = 0.5
-			country_resource_food_mult = 0.5
-			country_resource_unity_mult = 0.5
-			tile_resource_minerals_mult = 0.5
-			tile_resource_food_mult = 0.5
-			tile_resource_energy_mult = 0.5
+			country_base_alloys_produces_add = 3000
+			country_base_consumer_goods_produces_add = 3000
+			country_base_energy_produces_add = 3000
+			country_base_food_produces_add = 3000
+			country_base_influence_produces_add = 3000
+			country_base_minerals_produces_add = 3000
+			country_base_unity_produces_add = 3000
 		}
 
 		AI_weight = {
@@ -85,14 +83,13 @@ fcm_blessing_of_midas = {
 		}
 
 		modifier = {
-			country_resource_influence_mult = 0.75
-			country_resource_energy_mult = 0.75
-			country_resource_minerals_mult = 0.75
-			country_resource_food_mult = 0.75
-			country_resource_unity_mult = 0.75
-			tile_resource_minerals_mult = 0.75
-			tile_resource_food_mult = 0.75
-			tile_resource_energy_mult = 0.75
+			country_base_alloys_produces_add = 5000
+			country_base_consumer_goods_produces_add = 5000
+			country_base_energy_produces_add = 5000
+			country_base_food_produces_add = 5000
+			country_base_influence_produces_add = 5000
+			country_base_minerals_produces_add = 5000
+			country_base_unity_produces_add = 5000
 		}
 
 		AI_weight = {
@@ -110,14 +107,13 @@ fcm_blessing_of_midas = {
 		}
 
 		modifier = {
-			country_resource_influence_mult = 1.0
-			country_resource_energy_mult = 1.0
-			country_resource_minerals_mult = 1.0
-			country_resource_food_mult = 1.0
-			country_resource_unity_mult = 1.0
-			tile_resource_minerals_mult = 1
-			tile_resource_food_mult = 1
-			tile_resource_energy_mult = 1
+			country_base_alloys_produces_add = 7000
+			country_base_consumer_goods_produces_add = 7000
+			country_base_energy_produces_add = 7000
+			country_base_food_produces_add = 7000
+			country_base_influence_produces_add = 7000
+			country_base_minerals_produces_add = 7000
+			country_base_unity_produces_add = 7000
 		}
 
 		AI_weight = {
@@ -135,14 +131,13 @@ fcm_blessing_of_midas = {
 		}
 
 		modifier = {
-			country_resource_influence_mult = 999.0
-			country_resource_energy_mult = 999.0
-			country_resource_minerals_mult = 999.0
-			country_resource_food_mult = 999.0
-			country_resource_unity_mult = 999.0
-			tile_resource_minerals_mult = 999.0
-			tile_resource_food_mult = 999.0
-			tile_resource_energy_mult = 999.0
+			country_base_alloys_produces_add = 30000
+			country_base_consumer_goods_produces_add = 30000
+			country_base_energy_produces_add = 30000
+			country_base_food_produces_add = 30000
+			country_base_influence_produces_add = 30000
+			country_base_minerals_produces_add = 30000
+			country_base_unity_produces_add = 30000
 		}
 
 		AI_weight = {

@@ -1,7 +1,7 @@
 Stellaris - Mod - Filthy casual mode
 ===
 ![Mod version](https://img.shields.io/badge/version-3.0.1-brightgreen.svg)
-![Stellaris version](https://img.shields.io/badge/stellaris--version-2.1.*-blue.svg)
+![Stellaris version](https://img.shields.io/badge/stellaris--version-2.2.*-blue.svg)
 
 [This mod](http://steamcommunity.com/sharedfiles/filedetails/?id=741819051) goal is to make game significantly easier by adding couple of polices (usable only by human player) which grant various benefits to the empire (such as increasing resources production and reducing army upkeep).
 
